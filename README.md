@@ -1,5 +1,5 @@
 # Data Visualisation Game Sales
-This project performs data visualisation on vggames csv file.
+This project performs visualisation on vggames csv file, using static visualisations.
 
 Some trends are explored in the data, as well as some predefined questions answered.
 
