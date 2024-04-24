@@ -1,0 +1,38 @@
+<style>
+h1,h2,h3,h4,p
+{
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+
+
+h1, h2{
+
+  color: #006400;
+
+  font-weight: bold;
+
+}
+
+p {
+    color:black;
+    text-align: justify;
+}
+
+h3 {
+
+  color: #333;
+  margin-top: 1px;
+  margin-bottom: 1px;
+
+}
+
+h4 {
+
+    
+
+  
+  }
+
+
+</style>
